@@ -1,6 +1,10 @@
 # dessadiorweb
 Personal Website
  This is OLD: PLEASE LOOK AT WWW.ASMODESSA.COM for my portfolio now
+
+
+
+
 Might update this with recent projects/performances in the future.
 
 Template Info:
